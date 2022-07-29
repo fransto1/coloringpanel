@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
       "backup_ads_banner":"db4d5e8718b97d780",
-      "backup_ads_intertitial":"518cd97722c60b520",
+      "backup_ads_intertitial":"b1eb405e708c47a9",
       "interval_intertitial": 0,
-      "initialize_sdk":"1073557790",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "base_url":"https://wadahpintar.com/panel/poke/api/",
       "upload_url":"https://wadahpintar.com/panel/poke/uploads/",
